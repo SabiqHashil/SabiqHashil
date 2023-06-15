@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sabiqhashilkp786@gmail.com**
 
-- ⚡ Fun fact **Fun fact See u in vscode👌**
+- ⚡ Fun fact **See u in vscode👌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
