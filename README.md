@@ -33,4 +33,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/sabiqhashil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/sabiqhashil" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sabiqhashil&layout=donut&theme=radical" alt="sabiqhashil" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sabiqhashil&layout=donut&theme=default#gh-light-mode-only&html=ff2244&css=00000&scss=222222" alt="sabiqhashil" /></p>
