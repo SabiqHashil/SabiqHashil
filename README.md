@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sabiq_hashil" target="blank"><img src="https://img.shields.io/twitter/follow/@sabiq_hashil?logo=twitter&style=for-the-badge" alt="@sabiq_hashil" /></a> </p>
 
-- 🌱 I’m currently learning **BCA 3rd year**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabiqHashil](https://github.com/SabiqHashil)
 
