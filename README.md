@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabiqhashil" alt="sabiqhashil" /></a> </p>
 
-<p align="left"> <a href="https://x.com/sabiqhashil" target="blank"><img src="https://img.shields.io/twitter/follow/@sabiq_hashil?logo=twitter&style=for-the-badge" alt="@sabiq_hashil" /></a> </p>
+<p align="left"> <a href="https://x.com/sabiqhashil" target="blank"><img src="https://img.shields.io/twitter/follow/@sabiqhashil?logo=twitter&style=for-the-badge" alt="@sabiq_hashil" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
